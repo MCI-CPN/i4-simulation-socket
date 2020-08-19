@@ -1,6 +1,6 @@
 import socket
 
-HOST = '127.0.0.1'  # The server's hostname or IP address
+HOST = '10.137.1.119'  # The server's hostname or IP address
 PORT = 30000        # The port used by the server
 
 while(True):
