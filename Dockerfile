@@ -1,3 +1,3 @@
 FROM python:3
-ADD Sockettest.py /
-CMD ["python", "./Sockettest.py"]
+ADD SocketServerTest.py /
+CMD ["python", "./SocketServerTest.py"]
